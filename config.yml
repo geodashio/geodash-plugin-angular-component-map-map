@@ -1,0 +1,8 @@
+---
+name: geodash-plugin-angular-component-map-map
+components:
+  - GeoDashComponentMapMap.ts
+templates:
+  - geodashMapMap.tpl.html
+less:
+  - map_map.less
